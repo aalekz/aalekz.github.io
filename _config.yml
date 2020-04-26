@@ -22,6 +22,9 @@ plainwhite:
 
 remote_theme: thelehhman/plainwhite-jekyll
 
+plugins:
+   - jekyll-seo-tag
+
 exclude:
    - .sass-cache/
    - .jekyll-cache/
